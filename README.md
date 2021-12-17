@@ -2,7 +2,7 @@
 - 👀 I’m interested in front end web development & data handling.
 - 🌱 I’m currently learning javascript, python, html, css, bootstrap.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samkenkaj)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samkazshel)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
